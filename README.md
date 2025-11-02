@@ -64,12 +64,12 @@
 - Practical CSP with minimal breakage
 - CI/CD checklist for small teams
 
-> Add links when you publish.
+
 
 ---
 
 ### Contact
-For collaborations: **you@example.com**
+For collaborations: collab@webcore.ge
 
 <!-- Optional footer capsule -->
 <picture>
